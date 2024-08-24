@@ -1,1 +1,3 @@
-# Excel_Dasboard_Project
+This repository contains an Excel-based sales dashboard for Dekshina Fabrics, designed to provide a comprehensive overview of sales performance and key business metrics. The dashboard is tailored to assist management in making data-driven decisions and tracking the company’s sales performance over time.
+The real time data was collected and cleaned using power pivot.Various metrices used in the dashboard include total sales, top selling product, least selling product,3 year moving average, trend analysis over 2 year period, maximum price of a product, minimum prices of a product,most used mode of payment.Multiple charts and key slicers are used to visualise data.
+Ideal for sales teams, management, and decision-makers in the retail sector.Useful for tracking performance, identifying market opportunities, and optimizing sales strategies.# Excel_Dasboard_Project
